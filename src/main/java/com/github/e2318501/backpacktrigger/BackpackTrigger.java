@@ -1,4 +1,4 @@
-package net.nutchi.backpacktrigger;
+package com.github.e2318501.backpacktrigger;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
